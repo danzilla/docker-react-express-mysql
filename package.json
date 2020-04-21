@@ -1,0 +1,8 @@
+{
+  "name": "docker-react-express-mysql",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docker-compose up mysql server client"
+  },
+  "dependencies": {}
+}
